@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\3",
+    "\\3\\3",
+    "\\3\\3\\obj",
+    "\\3\\3\\obj\\Debug",
+    "\\3\\3\\obj\\Debug\\net6.0-windows",
+    "\\Ivanova3"
   ],
+  "SelectedNode": "\\3",
   "PreviewInSolutionExplorer": false
 }
